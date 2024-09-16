@@ -1,0 +1,41 @@
+******* EVOLUCION DE LOS METODOS DE DESARROLLO DE SOFTWARE *******
+
+Durante los 60, la industria del software enfrento lo que se como la "crisis del software".
+
+Problemas que se presentaban:
+- Retrasos
+- Presupuestos mal calculados.
+- Entregas incompletas.
+- Usuarios y clientes insatisfechos.
+
+
+Como respuesta a esta crisis, surgen:
+- Nuevas metodologias de desarrollo.
+- Herramientas y tecnicas.
+- Desarrollo de software estructurado.
+- Programacion orientada a objetos.
+- Metodologias agiles.
+- Educacion y formacion para proveer mayor personal calificado.
+
+
+--- SURGIMIENTO DE METODOS AGILES ---
+
+Los metodos agiles comenzaron a ganar traccion en la industria del software.
+
+Los equipos de desarrollo encontraron valor en la FLEXIBILIDAD, la COLABORACION, y la RESPUESTA RAPIDA al cambio que los metodos agiles promovian. Ademas, la capacidad de ENTRAGAR SOFTWARE FUNCIONAL DE MANERA CONTINUA se convirtio en una ventaja competitiva importante.
+
+
+
+
+--- METODOLOGIAS TRADICIONALES
+
+El modelo en cascada es uno de los metodos tradicionales mas antiguos y conocidos en el desarrollo de software. 
+Posee UNA ESTRUCUTA LINEAL Y SECUENCIAL, donde cada fase depende de la anterior.
+
+Caracteristicas:
+- Secuencialidad
+- Documentacion extensa
+- Poca flexibilidad
+- Previsibilidad
+- Facil de entender
+

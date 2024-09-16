@@ -1,0 +1,61 @@
+****** ORGANIZACION TRADICIONALES VS AGILES ******
+
+--- ORGANIZACIONES TRADICIONALES:
+Se caracterizan por contar con una estructura jerarquica (piramidal). Cada persona tiene su responsabilidad y tareas especificas.
+Los procesos son rigidos, diseñados para minimizar la variabilidad y que tenga un alto grado de consistencia.
+
+Los procesos se encuentran documentados sin dar lugar a ninguna duda.
+
+La comunicacion fluye de arriba hacia abajo, y las decisiones son centralizadas. Estas decisiones son tomadas por un grupo que se encuentra en la cima de la piramide y el resto de colaboradores no tiene ningun incidencia.
+
+Los cambios se gestionan con mucho cuidado para evitar el orden y estabilidad en toda la organizacion.
+
+-- VENTAJAS
+- Estructura clara y procesos definidos (proporciona cierta sensacion de estabilidad y previsibilidad para el resto de colaboradores)
+- Estructura jerarquica (proporciona direccion y control, permitiendo una coordinacion efectiva a gran escala)
+- Direccion y control
+
+
+-- DESVENTAJAS
+Las ventajas en un entorno dinamico se tornan en desventajas.
+- Estructura rigida 
+- Obstaculo para la innovacion y adaptabilidad
+
+
+
+
+--- ORGANIZACIONES AGILES
+Las organizaciones agiles se construyen sobre la premisa de que "EL CAMBIO ES INEVITABLE", y en muchos casos, DESEABLE.
+
+Se caracterizan por contar con una estructura mucho mas flexible y fluida y permite una rapida adaptacion.
+
+La estructura suele ser mas plana, con menos niveles jerarquicos, con mas redes y equipos interconectados.
+
+Los procesos se revisan y se ajustan regularmente, en funcion del feedback y el aprendizaje que el equipo vaya adquiriendo.
+
+Se centra en la entrega continua de valor a los clientes y a los stakeholders, y la toma de decisiones es DESCENTRALIZADA. Lo que permite una mayor autonomia en todos los niveles de la empresa. Lo que permite a los equipos responder rapidamente sin tener que esperar la aprovacion de la alta direccion.
+
+Este empoderamiento y propiedad que genera cada integrante de la organizacion para con su trabajo conduce a una mayor satisfaccion personal y tambien un retencion del personal.
+
+-- VENTAJAS
+- Rapida adaptacion
+- Estrucura flexible
+- Toma de decisiones descentralizada
+
+-- DESVENTAJAS
+- Dificultad para instaurar una vision de equipo
+- Falta de procesos definidos
+
+
+
+
+--- COMPARACION
+
+Las organizaciones tradicionales son preferidas en entornos ESTABLES Y PREDECIBLES. Donde la eficiencia es critica.
+
+Las organizaciones agiles son preferidas ante entornos dinamicos y cambiantes.
+
+
+
+"Las organizaciones no se transforman, son las personas que se transforman para cambiar las organizaciones" Peter Senge
+
