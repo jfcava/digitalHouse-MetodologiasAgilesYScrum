@@ -1,0 +1,36 @@
+********** CULTURA AGIL ************
+
+La cultura agil no se limita a solamente una serie de practicas o metodos. Cuando hablamos de CULTURA AGIL, nos referimos a una FILOSOFIA que se encuentra en cada aspecto y area de una organizacion.
+
+Una cultura agil se caracteriza por poner enfasis en la flexibilidad y la adaptacion, las interacciones humanas, la comunicacion y la colaboracion.
+
+
+
+--- CARACTERISTICAS DE UNA CULTURA AGIL
+
+1- Flexibilidad y adaptabilidad
+
+2- Colaboracion y comunicacion
+
+3- Empoderamiento y autonomia del equipo
+
+4- Iteraciones y mejora continua
+(Ciclos cortos llamados Interaciones o Sprints)
+
+5- Foco en el cliente
+(Se priorizan las tareas que ofrecen mayor valor agregado al cliente o al producto)
+
+
+
+--- SER AGIL NO ES IR RAPIDO, SER AGIL ES ADAPTARSE A LOS CAMBIOS
+
+
+--- RESULTADOS DE ORGANIZACIONES AGILES
+1- Mayor satisfaccion del cliente
+2- Mejora en la calidad del producto
+3- Eficiencia operativa mejorada
+4- Mayor motivacion y satisfaccion del equipo
+
+
+
+

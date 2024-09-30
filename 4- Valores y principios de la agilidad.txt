@@ -1,0 +1,61 @@
+********* VALORES Y PRINCIPIOS DE LA AGILIDAD **********
+
+Los valores fundamentales de la agilidad fueron establecidos en el Manifiesto Agil. 
+Este documento, que fue creado en 2001 marco un hito en la historia del desarrollo de software. 
+
+Esta nueva orientacion se centro en adaptarse a las realidades cambiantes del entorno y en reconocer que la flexibilidad, la comunicacion y la colaboracion como claves para el exito.
+
+
+
+---- VALORES AGILES
+
+1- Individuos e interacciones sobre procesos y herramientas.
+(Resalta el valor de las personas y sus interacciones en el equipo. Se fomenta la comunicacion directa, las reuniones y las sesiones de trabajo colaborativo. Las herramientas son un apoyo para las interacciones humanas)
+
+2- Software funcional sobre documentacion exhaustiva.
+(El enfoque esta en producir software que funcione, y aporte un valor real, en lugar de dedicar esfuerzo excesivo a la documentacion que luego suele quedar desactualizada. El equipo entrega prototipos y entregas tempranas del software para asi obtener retroalimentacion real y poder hacer ajustes mas rapidos. Documentar solo lo necesario, no en exceso)
+
+3- Colaboracion con el cliente sobre negociacion de contratos.
+(Prioriza trabajar mano a mano con el cliente en lugar de regirnos de modo estricto por los terminos de un contrato. Permite que el software final refleje mejor las expectativas del cliente)
+
+4- Responder al cambio sobre seguir un plan.
+(Fomenta la adaptabilidad y la capacidad de responder a cambios inesperados)
+
+
+---- PRINCIPIOS AGILES
+
+Los principios agiles ofrecen una guia practica para implementar los valores.
+
+Tienen en cuenta a la entrega continua y la adaptabilidad hasta la importancia en la comunicacion y mejora continua.
+
+
+1- SATISFACER AL CLIENTE MEDIANTE ENTREGAS TEMPRANAS Y CONTINUAS DE SOFTWARE VALIOSO.
+
+2- BIENVENIDOS LOS CAMBOIOS EN LOS REQUISITOS, INCLUSO EN ETAPAS TARDIAS DEL DESARROLLO.
+
+3- ENTREGAR SOFTWARE FUNCIONANDO FRECUENTEMENTE, ENTRE DOS SEMANAS A DOS MESES.
+
+4- LOS PROFESIONALES DEL NEGOCIO Y LOS DESARROLLADORES DEBEN TRABAJAR JNTOS DIARIAMENTE A LO LARGO DEL PROYECTO.
+
+5- CONSTRUIR PROYECTOS ALREDEDOR DE INDIVIDUOS MOTIVADOS, DANDOLES EL ENTORNO Y EL APOYO QUE NECESITAN.
+
+6- EL METODO MAS EFICIENTE Y EFECTIVO DE TRANSMITIR INFORMACION ES LA CONVERSACION CARA A CARA.
+
+7- SOFTWARE FUNCIONANDO COMO LA PRINCIPAL MEDIDA DE PROGRESO.
+
+8- LOS PROCESOS AGILES PROMUEVEN UN DESARROLLO SOSTENIBLE.
+(Se busca mantener un ritmo constante de trabajo evitando el agotamiento)
+
+9- LA ATENCION CONTINUA A LA EXCELENCIA TECNICA Y AL BUEN DISEÑO MEJORA LA AGILIDAD.
+
+10- LA SIMPLICIDAD ES ESENCIAL.
+
+11- LOS MEJORES ARQUITECTOS, REQUISITOS Y DISEÑOS EMERGEN DE EQUIPOS AUTO-ORGANIZADOS.
+
+12- A INTERVALOS REGULARES, EL EQUIPO REFLEXIONA SOBRE COMO SER MAS EFECTIVO, Y AJUSTA SU COMPORTAMIENTO EN CONSECUENCIA.
+
+
+
+---- CONCLUSION
+
+Adoptar la agilidad es mas que seguir reglas. Es transformar nuestra forma de trabajar y pensar, fomentando adaptabilidad, colaboracion, la entrega, la reflexion y la mejora continua.

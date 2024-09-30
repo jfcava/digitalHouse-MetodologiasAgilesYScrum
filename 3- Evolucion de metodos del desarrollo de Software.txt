@@ -39,3 +39,48 @@ Caracteristicas:
 - Previsibilidad
 - Facil de entender
 
+
+--- MODELO EN CASCADA
+
+Este modelo presenta diferentes fases secuenciales:
+
+- Requerimientos
+- Diseño
+- Desarrollo
+- Pruebas
+- Implementacion
+- Mantenimiento
+
+
+----- METODOLOGIAS AGILES
+
+Las metodologias agiles representan un conjunto de practicas de desarrollo de software que priorizan la flexibilidad y la entrega continua de valor.
+
+Los metodos agiles como Scrum, Kanban y Lean, han ganado popularidad debido a su flexibilidad y enfoque iterativo.
+
+
+-- ASPECTOS CLAVES DE LAS METODOLOGIAS AGILES
+
+- Flexibilidad y adaptabilidad
+- Colaboracion
+- Entrega continua de valor
+- Iteraciones
+- Descentralizacion de la toma de decisiones
+- Feedback y mejora continua
+
+
+-- QUE MODELO ES MAS CONVENIENTE?
+
+- Depende de cuan estable y cambiante son los requisitos.
+- Las caracteristicas del equipo
+- Disponibilidad de las partes interesantes
+- Importancia que se le de a las entregas tempranas
+
+
+-- COMPARACION
+
+Los metodos tradicionales buscan definir todo desde el principio, no dando lugar a los cambios.
+
+Los metodos agiles aceptan el cambio y promueven una evolucion continua.
+
+

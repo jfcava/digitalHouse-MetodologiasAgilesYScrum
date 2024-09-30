@@ -1,0 +1,35 @@
+******** HERRAMIENTAS PARA LA GESTION DE EQUIPOS AGILES *********
+
+Las herramientas agiles facilitan:
+- La planificacion y seguimiento de proyectos.
+- Refuerzan los principios de colaboracion, transparencia y adaptabilidad.
+- Maximizan la eficiencia y efectividad del trabajo en equipo.
+
+
+Las herramientas de planificacion y seguimiento son software o sistemas diseñados para ayudar en la organizacion, programacion y seguimiento del progreso de proyectos o tareas.
+
+Algunas de las herramientas mas populares para la gestion de proyectos agiles son JIRA y TRELLO.
+
+
+
+--- HERRAMIENTAS DE COMUNICACION Y COLABORACION
+
+Son plataformas y software diseñados para facilitar la interaccion, el trabajo en equipo y el intercambio de informacion entre individuos y grupos.
+
+Algunas de las herramientas mas populares en este ambito son SLACK y MICROSOFT TEAMS.
+
+
+
+--- HERRAMIENTAS DE INTEGRACION Y DESPLIEGUE CONTINUO
+
+Son fundamentales en el desarrollo de software moderno. Permitiendo automatizar partes del proceso de desarrollo para mejorar la eficiencia, calidad y velocidad de entrega.
+
+Algunas de las herramientas mas populares en este ambito son JENKINS y GIT.
+
+
+
+--- HERRAMIENTAS DE MONITOREO Y RETROALIMENTACION
+
+Son esenciales para la gestion de proyectos. Estas herramientas ayudan a las organizaciones y a los equipos a rastrear el rendimiento, obtener informacion valiosa y mejorar continuamente sus procesos y productos.
+EJ: JIRA, MIRO, NOTION
+
