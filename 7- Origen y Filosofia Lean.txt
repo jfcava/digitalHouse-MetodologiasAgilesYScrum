@@ -1,2 +1,43 @@
 ******** ORIGEN Y FILOSOFIA LEAN *********
 
+El metodo Lean con origen en la manufactura (sistema de produccion Toyota), se ha adaptado con exito al ambito del desarrollo de software. Permitiendo gestionar proyectos agiles y crear sistemas eficientes y centrados en el usuario, impulsando innovaciones y mejoras continuas en este campo.
+
+En los 50s, se desarrolla el sistema de produccion Toyota, enfocado en la eficiencia y eliminacion de desperdicios.
+En los 70-80s se produce la Expansion Global de Toyota, los principios Lean comienzan a ser estudiados y adoptados.
+En los 90s se adoptan los principios Lean en software.
+En los 00s se produce el surgimiento de las metodologias agiles, sinergia entre Lean y Agile.
+
+
+---- LAS INFLUENCIAS DE LEAN
+Los principios lean se convirtieron en una fuente de inspiracion para poder afrontar los desafios en el desarrollo de software
+
+- Just in time
+(Toyota - Produccion basada en la demanda real, encontro una relacion con el desarrollo de software en la forma del desarrollo iterativo y la entrega continua)
+
+- Mejora continua y adaptabilidad
+- Eficiencia del equipo
+- Eliminacion de desperdicios
+- Entregar valor al cliente
+
+
+Lean tiene sus raices en la produccion fisica y Agile nacido en el desarrollo de software, se encuentran y se complementan, ya que ambos de centran en la entrega de valor al cliente y responder rapidamente a los cambios en busca de la mejora continua.
+
+
+
+---- PRINCIPIOS DE LEAN EN EL SOFTWARE
+
+- Identificar el VALOR (El valor se define por lo que es importante para el cliente. La metodologia Lean nos incita a investigar y comprender sus necesidades reales, priorizando el trabajo que aporta mayor valor para las personas o nuestros clientes)
+
+- Mapear la CADENA DE VALOR (Se busca analizar el proceso de desarrollo de software para poder identificar todas las actividades que agregan valor como asi tambien las que no. El objetivo es poder eliminar o minimizar las actividades que no agregan valor)
+
+- Crear un FLUJO continuo (En software es la implementacion de practicvas que aseguran un flujo constante y sin interrupciones en el desarrollo. Se logra mediante la interacion y entrega continua, y manteniendo los equipos con un tamaño manejable y multifuncionales)
+
+- Establecer un sistema PULL (La demanda del producto determina cuanto producir - Just in time. Trabajar en funcionalidades basadas en la demanda real del cliente, no con suposiciones)
+
+- Perseguir la PERFECCION (Adoptar un mentalidad de mejora continua. Ajustar procesos. Revision regular)
+
+
+---- CONCLUSION
+
+Lean y Agile, mas que simples metodologias o herramientas, representan una filosofia de trabajo y una mentalidad que pone engasis en la eficiencia, la adaptabilidad y sobre todo en la entrega de valor al cliente.
+
